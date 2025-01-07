@@ -50,9 +50,14 @@ AI-Driven Analytics: Processes market data to optimize Meme coin index compositi
 Decentralized Governance: $AMI holders participate in decision-making through a community-driven DAO.
 Seamless Integration: Built on Virtuals Protocol for memory synchronization and cross-platform compatibility.
 
-## Installation
-Clone the repository:
+## Contribution
+We welcome contributions! Please follow these steps to contribute:
 
-```git clone https://github.com/YOUR_USERNAME/ai-meme-index.git
-cd ai-meme-index
-```
+Fork the repository.
+Create a new branch for your feature or fix.
+Submit a pull request with a detailed explanation of your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
