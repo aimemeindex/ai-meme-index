@@ -105,9 +105,9 @@ Persistent Identity: Agents retain memories and evolve based on user interaction
 ### 9. Developer Resources
 Developers can explore and contribute to our open-source ecosystem:
 GitHub Repository: Full access to the project’s codebase and documentation.
-AI MEME INDEX GitHub Repository
+[AI MEME INDEX GitHub Repository](https://github.com/aimemeindex/ai-meme-index/tree/main)
 GAME SDK: Flexible tools to extend agent functionality and tailor user experiences.
-GAME SDK on npm
+[GAME SDK on npm](https://www.npmjs.com/package/@virtuals-protocol/game)
 
 ### 10. Future Roadmap
 AI MEME INDEX is committed to continuous innovation and growth:
