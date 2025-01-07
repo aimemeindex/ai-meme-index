@@ -51,7 +51,8 @@ Decentralized Governance: $AMI holders participate in decision-making through a 
 Seamless Integration: Built on Virtuals Protocol for memory synchronization and cross-platform compatibility.
 
 ## Installation
-```bash
-npm install
-npx hardhat compile
+Clone the repository:
+
+```git clone https://github.com/YOUR_USERNAME/ai-meme-index.git
+cd ai-meme-index
 ```
