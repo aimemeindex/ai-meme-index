@@ -6,13 +6,9 @@
 AI MEME INDEX ($AMI) leverages Virtuals Protocol and GAME SDK to revolutionize Meme coin investments. This project integrates dynamic agent management, AI-driven analytics, and decentralized governance to create a transparent, efficient, and engaging ecosystem for investors.
 
 ## Project Structure
-- **agents/**: Logic for NPCs and Index Managers.
-- **api/**: Modules for external API integrations.
-- **contracts/**: Smart contracts for $AMI and staking.
-- **scripts/**: Deployment and management scripts.
-- **config/**: Sandbox and project settings.
 
-```ai-meme-index/
+```
+ai-meme-index/
 ├── agents/                   # Agent logic and configurations
 │   ├── indexAgent.ts         # Index management agent
 │   ├── npcAgent.ts           # NPC agent logic
