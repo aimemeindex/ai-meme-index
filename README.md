@@ -14,3 +14,4 @@ AI MEME INDEX ($AMI) is a decentralized platform leveraging Virtuals Protocol an
 ```bash
 npm install
 npx hardhat compile
+```
