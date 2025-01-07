@@ -1,0 +1,11 @@
+{
+  "agentSettings": {
+    "memorySync": true,
+    "npcBehavior": "dynamic"
+  },
+  "tokenSettings": {
+    "name": "AI MEME INDEX",
+    "symbol": "AMI",
+    "initialSupply": 1000000000
+  }
+}
